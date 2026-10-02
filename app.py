@@ -1,4 +1,4 @@
-pip install plotly
+
 import hashlib
 import json
 import pandas as pd
